@@ -1,0 +1,35 @@
+[33mcommit b256975331856ec71c3bf2658839433372f93e9d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmirupio[m[33m, [m[1;31morigin/mirupio[m[33m)[m
+Author: mirupio <162397816+mirupio@users.noreply.github.com>
+Date:   Sat May 17 23:06:33 2025 +0900
+
+    refactor : gitignore 충돌 해결
+
+[33mcommit 864e6e995732c0b5f4197713ac3ac6647611b4ef[m
+Author: mirupio <162397816+mirupio@users.noreply.github.com>
+Date:   Sat May 17 22:46:17 2025 +0900
+
+    chore : 프로젝트 생성
+
+[33mcommit a657ee2c53207ea17ed16d51941bcd4fe4cf117c[m
+Author: mirupio <162397816+mirupio@users.noreply.github.com>
+Date:   Wed May 14 21:38:23 2025 +0900
+
+    chore : 프로젝트 생성
+
+[33mcommit 910513f54fcde1a230d60cf58790e3e138253415[m
+Author: 서채연 <128215774+yeonee911@users.noreply.github.com>
+Date:   Mon Apr 28 18:35:54 2025 +0900
+
+    Create pull_request_template.md
+
+[33mcommit d7cd04d9707f43183b6c7a185f764303edf89c48[m
+Author: 서채연 <128215774+yeonee911@users.noreply.github.com>
+Date:   Mon Apr 28 18:32:02 2025 +0900
+
+    Update issue templates
+
+[33mcommit 02c211c5e82bb3e3452b4fdc45c5d6e6220a52b0[m
+Author: 서채연 <128215774+yeonee911@users.noreply.github.com>
+Date:   Mon Apr 28 17:28:42 2025 +0900
+
+    Initial commit
